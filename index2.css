@@ -1,0 +1,6 @@
+button {
+	background-color: rgb(242, 53, 53);
+}
+[data-theme-dark="dark"] {
+	background-color: black;
+}
